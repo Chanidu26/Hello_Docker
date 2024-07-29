@@ -1,12 +1,14 @@
-# Node.js Application in a Docker Container
+# Containerize Nodejs Application with Docker
 
 This repository provides a simple example of how to run a Node.js application inside a Docker container. Docker allows you to package your application and its dependencies together, making it easier to deploy and manage across different environments.
 
+![Screenshot](https://github.com/Chanidu26/Hello_Docker/blob/main/Docker_Explanation.jpg)
+
 ## Steps
 
-- [1. Create a Dockerfile](#2-create-a-dockerfile)
-- [2. Build the Docker Image](#3-build-the-docker-image)
-- [3. Run the Docker Container](#4-run-the-docker-container)
+- Create a Dockerfile
+- Build the Docker Image
+- Run the Docker Container
 
 
 ## Dockerfile
@@ -18,6 +20,8 @@ Dockerimage is standardized package that includes all of the files, binaries, li
 
 ## Docker Container
 Docker container is a standardized isolated unit. which we can run this relaibly quickly on any different computing environments.
+
+
 
 
 
